@@ -9,5 +9,14 @@
     <string name="contacto6">contacto6</string>
     <string name="contacto7">contacto7</string>
     <string name="contacto8">contacto8</string>
+    <string name="str_login_btn_in">Actualizar</string>
+
+
+    <string name="str_login_username">Nombre de usuario</string>
+    <string name="str_login_password">Contraseña</string>
+
+
+    <string name="str_btn_createaccount">Ingresar</string>
+
 
 </resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Parcial1</string>
+    <string name="contacto">contacto</string>
+    <string name="contacto1">contacto1</string>
+    <string name="contacto2">contacto2</string>
+    <string name="contacto3">contacto3</string>
+    <string name="contacto4">contacto4</string>
+    <string name="contacto5">contacto5</string>
+    <string name="contacto6">contacto6</string>
+    <string name="contacto7">contacto7</string>
+    <string name="contacto8">contacto8</string>
+
+</resources>
